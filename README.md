@@ -8,14 +8,14 @@ This repo contains my customizations for Royal Kludge RK61 keyboard (Turkish Q L
 
 ## Customizations
 ### Customizations on symbols/pc file
-- Escape <==> Caps Lock
-- Menu (R) ==> Hyper (L)
-- Ctrl (R) ==> AltGr
+- Escape <=> Caps Lock
+- Menu (R) => Hyper (L)
+- Ctrl (R) => AltGr
 
 These customizations are being applied automatically after every boot.
 
 ### Customizations with setxkbmap command
-AltGr ==> Ctrl (R)
+- AltGr => Ctrl (R)
 
 By changing symbols/pc file, I was unable to remap AltGr key to Ctrl. So I found another way to achieve this:
 
