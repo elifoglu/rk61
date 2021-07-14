@@ -7,7 +7,6 @@ This repo contains my customizations for Royal Kludge RK61 keyboard (Turkish Q L
 - When using the keyboard, I want to move my hands as little as possible. It is much more ergonomic for me to position the arrow keys near the middle of the keyboard. I am going to use the arrow keys via a modifier key.
 
 ## Customizations
-
 ### Customizations on symbols/pc file
 - Escape <==> Caps Lock
 - Menu (R) ==> Hyper (L)
@@ -16,7 +15,6 @@ This repo contains my customizations for Royal Kludge RK61 keyboard (Turkish Q L
 These customizations are being applied automatically after every boot.
 
 ### Customizations with setxkbmap command
-
 AltGr ==> Ctrl (R)
 
 By changing symbols/pc file, I was unable to remap AltGr key to Ctrl. So I found another way to achieve this:
@@ -30,12 +28,10 @@ To make this work on boot,
 
 
 ### Customizations with Autokey
-
 I have done lots of customizations using [Autokey](https://github.com/autokey/autoke,y). All of them are [here](link).
 
 
 ### Ubuntu Keyboard Shortcuts
-
 I assigned some shortcuts to enhance usage:
 
 - Ctrl + Space => Show the activities overview
@@ -59,7 +55,6 @@ Also, these default shortcuts are disabled since they make trouble:
 - Switch to previous input source
 
 ### Removing keycaps
-
 Not wanting to move my hands too much, I removed some keycaps to force myself to use fewer keys. The removed keycaps are:
 
 - Escape
@@ -76,7 +71,6 @@ Currently, my keyboard looks like this:
 --- img will be here ---
 
 ## Problems
-
-- On terminal, I am unable to use Enter using super + w combination. It does nothing.
-- When computer is locked, I am again unable to use Enter using super + w combination.
-- When using search module of Ubuntu, I cannot use any of combinations done with Autokey.
+- On terminal, I am unable to use Enter using Super + W combination. It does nothing.
+- When computer is locked, I am unable to use Enter using Super + W combination.
+- When using the search module of Ubuntu, I cannot use any of the combinations done with Autokey.
