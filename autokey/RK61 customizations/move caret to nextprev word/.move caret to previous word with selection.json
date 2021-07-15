@@ -1,0 +1,31 @@
+{
+    "type": "script",
+    "description": "move caret to previous word with selection",
+    "store": {},
+    "modes": [
+        3
+    ],
+    "usageCount": 129,
+    "prompt": false,
+    "omitTrigger": false,
+    "showInTrayMenu": false,
+    "abbreviation": {
+        "abbreviations": [],
+        "backspace": true,
+        "ignoreCase": false,
+        "immediate": false,
+        "triggerInside": false,
+        "wordChars": "[\\w]"
+    },
+    "hotkey": {
+        "modifiers": [
+            "<hyper>",
+            "<shift>"
+        ],
+        "hotKey": "\u01ba"
+    },
+    "filter": {
+        "regex": null,
+        "isRecursive": false
+    }
+}
