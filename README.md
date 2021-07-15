@@ -12,6 +12,8 @@ This repo contains my customizations for Royal Kludge RK61 keyboard (Turkish Q L
 - Menu (R) => Hyper (L)
 - Ctrl (R) => AltGr
 
+My customized pc file is [here](pc). It should be replaced with the existing pc file in the `/usr/share/X11/xkb/symbols` directory.
+
 These customizations are being applied automatically after every boot.
 
 ### Customizations with setxkbmap command
