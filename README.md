@@ -30,7 +30,7 @@ To make this work on boot,
 
 
 ### Customizations with Autokey
-I have done lots of customizations using [Autokey](https://github.com/autokey/autoke,y). All of them are [here](link).
+I have done lots of customizations using [Autokey](https://github.com/autokey/autoke,y). All of them are [here](autokey/).
 
 
 ### Ubuntu Keyboard Shortcuts
