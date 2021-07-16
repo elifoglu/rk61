@@ -2,6 +2,8 @@
 
 This repo contains my customizations for Royal Kludge RK61 keyboard (Turkish Q Layout). I use Ubuntu 20.04.
 
+![v1](images/rk61_1.jpeg)
+
 ## Goals
 - RK61 has some constraints. Since the arrow keys are located in the same place as the other important keys, it is necessary to constantly switch between the two layers. Therefore, I needed to fix this somehow.
 - When using the keyboard, I want to move my hands as little as possible. It is much more ergonomic for me to position the arrow keys near the middle of the keyboard. I am going to use the arrow keys via a modifier key.
@@ -68,11 +70,11 @@ Not wanting to move my hands too much, I removed some keycaps to force myself to
 - Backspace
 - Enter
 
-Currently, my keyboard looks like this:
+After removing keycaps, my keyboard -unfortunately- looks like this:
 
---- img will be here ---
+![v2](images/rk61_2.jpeg)
 
 ## Problems
-- On terminal, I am unable to use Enter using Super + W combination. It does nothing.
-- When computer is locked, I am unable to use Enter using Super + W combination.
+- On the terminal, I am unable to use Enter using Super + W combination. It does nothing.
+- When the computer is locked, I am unable to use Enter using Super + W combination.
 - When using the search module of Ubuntu, I cannot use any of the combinations done with Autokey.
