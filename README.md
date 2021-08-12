@@ -41,11 +41,11 @@ I assigned some shortcuts to enhance usage:
 - Ctrl + Space => Show the activities overview
 - Super + Space => Switch windows
 - Super + T => Launch terminal
-- Super + E => Hide all windows
+- Super + Ctrl + D => Hide all windows
 - Super + Ctrl + L => Lock screen
 - Super + . => Volume up
 - Super + Ç => Volume down
-- Super + Ç => Volume mute/unmute
+- Super + Ö => Volume mute/unmute
 - Super + Ctrl + Ş => View split on left
 - Super + Ctrl + , => View split on right
 
